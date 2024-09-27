@@ -27,7 +27,7 @@ Here are a few highlights of my recent projects:
 - **CompTIA Security+**
 - **UTSA Cybersecurity 6-Month Certification of Completion**
 - **CompTIA Network+** (Expected October 2024)
-- **Master’s in Cybersecurity and Information Assurance** (Current Enrollment at WGU)
+- **Master’s in Cybersecurity and Information Assurance** (Expected 10/25)
 
 ## 📫 Get in Touch
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dagimendale)
