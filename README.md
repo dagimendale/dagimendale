@@ -23,7 +23,7 @@ Here are a few highlights of my recent projects:
    - [View Portfolio](link_to_your_portfolio)
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Your LinkedIn Profile](link_to_your_linkedin)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/dagimendale)
 - **Email**: [your_email@example.com](mailto:your_email@example.com)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
