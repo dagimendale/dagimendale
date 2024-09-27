@@ -22,6 +22,13 @@ Here are a few highlights of my recent projects:
    - Building a collection of various cybersecurity, coding, and IT projects to showcase my skills.
    - [View Portfolio](link_to_your_portfolio)
 
+## 📜 Certifications
+- **BBA in Cybersecurity**
+- **CompTIA Security+**
+- **UTSA Cybersecurity 6-Month Certification of Completion**
+- **CompTIA Network+** (Expected October 2024)
+- **Master’s in Cybersecurity and Information Assurance** (Current Enrollment at WGU)
+
 ## 📫 Get in Touch
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dagimendale)
 - **Email**: `dagim64@gmail.com`
