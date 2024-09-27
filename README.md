@@ -24,6 +24,6 @@ Here are a few highlights of my recent projects:
 
 ## 📫 Get in Touch
 - **LinkedIn**:[My LinkedIn Profile](https://www.linkedin.com/in/dagimendale)
-- **Email**: dagim64@gmail.com
+- **Email**: `dagim64@gmail.com`
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
