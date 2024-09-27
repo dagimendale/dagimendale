@@ -16,7 +16,7 @@ Here are a few highlights of my recent projects:
 
 2. **Setting Up and Securing a Web App in Azure**
    - Created and hosted a web application using Azure services, focusing on security practices.
-   - [View Project]([link_to_your_project_repository](https://github.com/dagimendale/Securing-Cloud-Apps-within-Azure))
+   - [View Project](https://github.com/dagimendale/Securing-Cloud-Apps-within-Azure)
 
 3. **Portfolio of Cybersecurity Solutions**
    - Building a collection of various cybersecurity, coding, and IT projects to showcase my skills.
