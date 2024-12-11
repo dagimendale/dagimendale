@@ -5,14 +5,14 @@ Welcome to my GitHub profile! I’m a passionate cybersecurity enthusiast with a
 ## 🌟 About Me
 - 🌱 Currently learning more about cloud technologies and security practices.
 - 💼 Seeking opportunities in the IT/cybersecurity field, particularly in SOC and security analyst roles.
-- 🛠️ Experienced with tools like Splunk, Azure, and various programming languages.
+- 🛠️ Experienced with tools like Splunk, Azure, and some programming languages.
 
 ## 📂 My Projects
 Here are a few highlights of my recent projects:
 1. **Custom Monitoring Environment with Splunk**
    - Designed a monitoring environment to protect a fictional organization, implementing custom reports, alerts, and dashboards.
    - Analyzed a simulated attack to evaluate the effectiveness of my monitoring solutions.
-   - [View Project](link_to_your_project_repository)
+   - [View Project]((https://github.com/dagimendale/Splunk/tree/main))
 
 2. **Setting Up and Securing a Web App in Azure**
    - Created and hosted a web application using Azure services, focusing on security practices.
@@ -20,7 +20,7 @@ Here are a few highlights of my recent projects:
 
 3. **Portfolio of Cybersecurity Solutions**
    - Building a collection of various cybersecurity, coding, and IT projects to showcase my skills.
-   - [View Portfolio](link_to_your_portfolio)
+   - [View Portfolio]([link_to_your_portfolio](https://dagimendale.github.io/))
 
 ## 📜 Certifications
 - **BBA in Cybersecurity**
