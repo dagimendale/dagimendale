@@ -24,10 +24,10 @@ Here are a few highlights of my recent projects:
 
 ## 📜 Certifications
 - **BBA in Cybersecurity**
--  **UTSA Cybersecurity 6-Month Certification of Completion**
+- **UTSA Cybersecurity 6-Month Certification of Completion**
 - **CompTIA Security+**
-- **CompTIA Network+** (Expected October 2024)
-- **Master’s in Cybersecurity and Information Assurance** (in-progress)
+- **CompTIA Network+** (Expected December 2024)
+- **Master’s in Cybersecurity and Information Assurance** (Expected October 2025)
 
 ## 📫 Get in Touch
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dagimendale)
